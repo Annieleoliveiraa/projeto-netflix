@@ -130,7 +130,7 @@ h2 {
     font-size: 24px;
 }
 
-@media (min-width: 500px) {
+@media screen and  (min-width: 400px) {
     h1 {
         width: 100%;
     }
